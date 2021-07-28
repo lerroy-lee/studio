@@ -1,0 +1,13 @@
+h1 {
+  background-image: url(../images/h1.jpg);
+  background-repeat: no-repeat;
+}
+h1 {
+  padding-block-start: 200px;
+}
+div {
+  /* Background pattern from Toptal Subtle Patterns */
+  background-image: url(../images/services.jpg);
+  background-repeat: no-repeat; 
+}
+  
