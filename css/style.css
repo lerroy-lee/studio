@@ -1,13 +1,39 @@
-h1 {
+h1 { 
   background-image: url(../images/h1.jpg);
   background-repeat: no-repeat;
+  text-align: center;
 }
 h1 {
   padding-block-start: 200px;
 }
-div {
-  /* Background pattern from Toptal Subtle Patterns */
-  backgroundxx-image: url(../images/services.jpg);
-  backgr..ound-repeat: no-repeat; 
+.aboutus{
+  text-align: center;
 }
+.services{
+  background-image: url(../images/services.jpg);
+}
+.services{
+  text-align: center;
+  text-decoration-color: white;
+  background-size: 100cm;
+}
+.whatwedo{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+ .work1.jpg
+{
+width:300px;
+height:300px;
+}
+ 
+footer {
+  text-align: center;
+  background-image: url(../images/contact\ us.jpg);
+  background-repeat: no-repeat;
+  background-size: 100cm;
   
+}
