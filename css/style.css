@@ -1,21 +1,48 @@
-h1 { 
+.introduction{ 
   background-image: url(../images/h1.jpg);
   background-repeat: no-repeat;
-  text-align: center;
+  color: white;
+
 }
+.introduction{
+  background-position: center;
+  height: auto;
+  background-size: cover;
+  padding-top: 15%;
+  padding-bottom: 10%;
+}
+.introduction{
+  font-size:  15%;
+}
+
 h1 {
-  padding-block-start: 200px;
+  text-align: center;
+
+  
+}
+h3{
+  text-align: center;
+  text-emphasis-position: bottom;
+  
 }
 .aboutus{
   text-align: center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 .services{
   background-image: url(../images/services.jpg);
+  height: auto;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 10%;
+  
 }
 .services{
   text-align: center;
   text-decoration-color: white;
-  background-size: 100cm;
+  background-size: 70cm;
 }
 .whatwedo{
   text-align: center;
@@ -23,7 +50,11 @@ h1 {
 h3{
   text-align: center;
 }
-
+.portfolio{
+  height: 200px;
+  max-width: auto;
+  position: center;
+}
  .work1.jpg
 {
 width:300px;
@@ -34,6 +65,16 @@ footer {
   text-align: center;
   background-image: url(../images/contact\ us.jpg);
   background-repeat: no-repeat;
-  background-size: 100cm;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  
+}
+footer{
+  padding-top: 7%;
+  padding-bottom: 20%;
+}
+.socialmedia{
   
 }
