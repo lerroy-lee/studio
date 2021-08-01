@@ -76,5 +76,7 @@ footer{
   padding-bottom: 20%;
 }
 .socialmedia{
-  
+  justify-content: center;
+  text-align: center;
+  font-size: x-small;
 }
